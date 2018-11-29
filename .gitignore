@@ -3,3 +3,8 @@
 ################################################################################
 
 /EventBubbling/EventBubbling/obj
+/EventBubbling/EventBubbling/bin/Debug
+/Logger/Logger/obj
+/Logger/Logger/bin/Debug
+/EventBubbling/.vs/EventBubbling/v15
+/Logger/.vs/Logger/v15
